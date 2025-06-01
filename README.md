@@ -31,9 +31,6 @@
 <p align="center">
   <a href="https://blog.csdn.net/weixin_53622554?spm=1000.2115.3001.5343">
     <img src="https://img.shields.io/badge/CSDN-我的技术博客-orange?logo=csdn&logoColor=white&style=for-the-badge" alt="CSDN Blog">
-  </a>
-    <img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail&style=for-the-badge" alt="Email">
-  </a>
 </p>
 
 ## 📚 我的技术博客
