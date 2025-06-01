@@ -21,13 +21,6 @@
   - Spring Boot、微服务实战
   - 持续更新，欢迎关注与交流！
  
-    <!-- 个人主页头部动图 -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" alt="hello">
-</p>
-
-<h1 align="center">Hi, I’m GaoSSR 👋</h1>
-
 <p align="center">
   <a href="https://blog.csdn.net/weixin_53622554?spm=1000.2115.3001.5343">
     <img src="https://img.shields.io/badge/CSDN-我的技术博客-orange?logo=csdn&logoColor=white&style=for-the-badge" alt="CSDN Blog">
