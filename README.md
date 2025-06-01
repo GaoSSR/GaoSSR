@@ -9,6 +9,10 @@
 - 💡 深入研究：高性能架构设计
 - 🌱 正在学习：云原生、DevOps、系统架构设计
 - 📝 热爱技术分享，持续输出原创文章与实战经验
+- 👨‍💻 热爱编程，持续学习与分享
+- 🔥 专注于 **Java开发** 等领域
+- 💡 喜欢研究新技术，乐于解决各种技术难题
+- 📝 日常在 CSDN [技术博客](https://blog.csdn.net/weixin_53622554?spm=1000.2115.3001.5343) 分享学习笔记、实战经验与源码解析
 
 ## 📌 技术博客
 
@@ -16,6 +20,57 @@
   - Java开发核心技术与源码剖析
   - Spring Boot、微服务实战
   - 持续更新，欢迎关注与交流！
+ 
+    <!-- 个人主页头部动图 -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" alt="hello">
+</p>
+
+<h1 align="center">Hi, I’m GaoSSR 👋</h1>
+
+<p align="center">
+  <a href="https://blog.csdn.net/weixin_53622554?spm=1000.2115.3001.5343">
+    <img src="https://img.shields.io/badge/CSDN-我的技术博客-orange?logo=csdn&logoColor=white&style=for-the-badge" alt="CSDN Blog">
+  </a>
+    <img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail&style=for-the-badge" alt="Email">
+  </a>
+</p>
+
+## 📚 我的技术博客
+
+<p align="center">
+  <a href="https://blog.csdn.net/weixin_53622554?spm=1000.2115.3001.5343">
+    <img src="https://media.giphy.com/media/l378khQxt68syiWJy/giphy.gif" width="300" alt="Blog GIF"/>
+    <br>
+    <b>🚩 点击访问我的 CSDN 博客</b>
+  </a>
+</p>
+
+---
+
+## 🌟 博客特性
+
+- 🎯 **内容多元**：涵盖Java、MySQL、Redis等
+- 📈 **持续更新**：记录成长和学习之路
+- 🛠️ **实战分享**：项目实战、源码解析、技术踩坑与优化
+- 💬 **互动问答**：欢迎留言讨论，共同进步
+
+---
+
+## 🤝 期待与你交流
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6gbbuLW76jkt8vIc/giphy.gif" width="200" alt="collaboration">
+</p>
+
+- 欢迎通过 Issues 或邮件交流技术心得
+- 也欢迎在 CSDN 博客下留言互动
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 ## 🚀 代表项目
 
