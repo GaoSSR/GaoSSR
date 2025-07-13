@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=GaoSSR&color=blueviolet)
 
 ## 🙋‍♂️ About Me
-<p>Java boy｜China｜GaoSSR</p>
+<p>Java H boy｜China｜GaoSSR</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
