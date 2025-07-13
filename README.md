@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=GaoSSR&color=blueviolet)
 
 ## 🙋‍♂️ About Me
-<p>Java H boy｜China｜GaoSSR</p>
+#### <p>Java H boy｜China｜GaoSSR</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=4B0082&width=708&height=58&lines=All+By+Myself%F0%9F%9A%80%F0%9F%8E%AF%EF%BD%9CThe+Jungle+Law%F0%9F%94%A5%EF%BD%9CDreamer%F0%9F%8C%9F)](https://git.io/typing-svg)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GaoSSR&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
