@@ -23,7 +23,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <h2>✒️ Recent Posts</h2>
 
-### 📌 我的技术博客｜Java核心技术专栏｜原创196篇｜总访量25w+
+### 📌 我的技术博客｜总访量25w+
 <p align="center">
   <a href="https://blog.csdn.net/weixin_53622554?spm=1000.2115.3001.5343">
     <img src="https://media.giphy.com/media/l378khQxt68syiWJy/giphy.gif" width="300" alt="Blog GIF"/>
