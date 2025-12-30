@@ -49,11 +49,13 @@
  > OnePro 专注于电商场景下的复杂优惠叠加问题（如满减、折扣、叠加券等），通过创新算法实现高效、灵活的最优解计算。
   
 <h2>📈 GitHub Stats</h2>
-  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=GaoSSR&show_icons=true&locale=en&cache_seconds=86400" alt="GaoSSR" /></p>
+
+<p>
+  <img src="https://img.shields.io/github/followers/GaoSSR?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/GaoSSR?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars"/>
+</p>
+
 <p><img align="center" src="https://streak-stats.demolab.com/?user=GaoSSR&theme=default" alt="GaoSSR" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=GaoSSR&show_icons=true&locale=en&layout=compact&cache_seconds=86400" alt="GaoSSR" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GaoSSR&no-frame=true&margin-w=10" alt="GaoSSR" /></a></p>
 
 ## 🤝 期待与你交流
 
