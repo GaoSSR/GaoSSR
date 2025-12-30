@@ -6,6 +6,20 @@
 ### <p>Java H boy｜China｜GaoSSR</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=4B0082&width=708&height=58&lines=All+By+Myself%F0%9F%9A%80%F0%9F%8E%AF%EF%BD%9CThe+Jungle+Law%F0%9F%94%A5%EF%BD%9CDreamer%F0%9F%8C%9F)](https://git.io/typing-svg)
+
+## 🏆 Open Source Contributor
+
+<p>
+<a href="https://github.com/spring-projects/spring-boot/commits?author=GaoSSR">
+  <img src="https://img.shields.io/badge/Spring%20Boot-Contributor-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot Contributor"/>
+</a>
+<a href="https://github.com/redisson/redisson/commits?author=GaoSSR">
+  <img src="https://img.shields.io/badge/Redisson-Contributor-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redisson Contributor"/>
+</a>
+</p>
+
+> 🎉 Proud contributor to **Spring Boot** (77k+ ⭐) and **Redisson** (24k+ ⭐)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GaoSSR&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2>🚀 Languages and Tools I Use</h2>
@@ -40,7 +54,7 @@
 <h2>📈 GitHub Stats</h2>
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=GaoSSR&show_icons=true&locale=en" alt="GaoSSR" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GaoSSR&" alt="GaoSSR" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=GaoSSR&theme=default" alt="GaoSSR" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=GaoSSR&show_icons=true&locale=en&layout=compact" alt="GaoSSR" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GaoSSR" alt="GaoSSR" /></a></p>
 
