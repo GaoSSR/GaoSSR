@@ -28,12 +28,18 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Verified%20Merged%20PRs-12%2B-0f766e?style=for-the-badge" alt="Verified merged PRs" />
+  <img src="https://img.shields.io/badge/Merged%20PRs-12-0f766e?style=for-the-badge" alt="Verified merged PRs" />
+  <img src="https://img.shields.io/badge/Accepted%20Contributions-14-2563eb?style=for-the-badge" alt="Accepted open source contributions" />
   <img src="https://img.shields.io/badge/Primary%20Maintainer-OnePRO-111827?style=for-the-badge&logo=github" alt="Primary maintainer of OnePRO" />
   <img src="https://img.shields.io/badge/Focus-Java%20%7C%20Spring%20%7C%20Redis%20%7C%20Infra-b45309?style=for-the-badge" alt="Focus areas" />
 </div>
 
 > I don't just build on the Java ecosystem. I ship fixes back into it.
+
+<p align="center">
+  <strong>12 merged PRs</strong> across Redisson, Apache Maven, Apache Kafka, and Netty,
+  plus <strong>2 Spring Boot upstream commits</strong> integrated by the Spring Boot project workflow.
+</p>
 
 <table>
   <tr>
@@ -43,12 +49,12 @@
   </tr>
   <tr>
     <td><strong>Spring Boot</strong></td>
-    <td>Submitted PRs in buildpack/platform code around naming consistency and buffer handling.</td>
-    <td><a href="https://github.com/spring-projects/spring-boot/pull/48640">#48640</a> · <a href="https://github.com/spring-projects/spring-boot/pull/48649">#48649</a></td>
+    <td>2 upstream commits in buildpack/platform code, covering Java naming consistency and a zero-length buffer bug with regression coverage.</td>
+    <td><a href="https://github.com/spring-projects/spring-boot/pull/48640">#48640</a> / <a href="https://github.com/spring-projects/spring-boot/commit/2075a2cfdb5f1f22fecd6076bf2dff56d18125ca">commit</a> · <a href="https://github.com/spring-projects/spring-boot/pull/48649">#48649</a> / <a href="https://github.com/spring-projects/spring-boot/commit/ba94cc48f2e017f0c81ee38c4ee15cbf4784e96a">commit</a></td>
   </tr>
   <tr>
     <td><strong>Redisson</strong></td>
-    <td>3 merged PRs covering load-balancer overflow handling, GraalVM compatibility, and error-message cleanup.</td>
+    <td>3 merged PRs covering load-balancer overflow handling, GraalVM Native Image compatibility, and error-message cleanup.</td>
     <td><a href="https://github.com/redisson/redisson/pull/6927">#6927</a> · <a href="https://github.com/redisson/redisson/pull/6928">#6928</a> · <a href="https://github.com/redisson/redisson/pull/6930">#6930</a></td>
   </tr>
   <tr>
@@ -64,7 +70,7 @@
   <tr>
     <td><strong>Netty</strong></td>
     <td>4 merged PRs in <code>4.2</code>, contributing fixes across HTTP/3, HTTP/1.x, HPACK, and DNS code quality.</td>
-    <td><a href="https://github.com/netty/netty/pull/16091">#16091</a> · <a href="https://github.com/netty/netty/pull/16094">#16094</a></td>
+    <td><a href="https://github.com/netty/netty/pull/16091">#16091</a> · <a href="https://github.com/netty/netty/pull/16092">#16092</a> · <a href="https://github.com/netty/netty/pull/16093">#16093</a> · <a href="https://github.com/netty/netty/pull/16094">#16094</a></td>
   </tr>
 </table>
 
