@@ -22,14 +22,17 @@
   <a href="https://github.com/netty/netty/commits/4.2/?author=GaoSSR">
     <img src="https://img.shields.io/github/stars/netty/netty?style=for-the-badge&logo=github&label=Netty" alt="Netty" />
   </a>
+  <a href="https://github.com/larksuite/cli/pulls?q=is%3Apr+author%3AGaoSSR">
+    <img src="https://img.shields.io/github/stars/larksuite/cli?style=for-the-badge&logo=github&label=Lark%20CLI" alt="Lark CLI" />
+  </a>
   <a href="https://github.com/spring-projects/spring-boot/pulls?q=author%3AGaoSSR">
     <img src="https://img.shields.io/github/stars/spring-projects/spring-boot?style=for-the-badge&logo=springboot&label=Spring%20Boot" alt="Spring Boot" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Merged%20PRs-12-0f766e?style=for-the-badge" alt="Verified merged PRs" />
-  <img src="https://img.shields.io/badge/Accepted%20Contributions-14-2563eb?style=for-the-badge" alt="Accepted open source contributions" />
+  <img src="https://img.shields.io/badge/Merged%20PRs-13-0f766e?style=for-the-badge" alt="Verified merged PRs" />
+  <img src="https://img.shields.io/badge/Accepted%20Contributions-15-2563eb?style=for-the-badge" alt="Accepted open source contributions" />
   <img src="https://img.shields.io/badge/Primary%20Maintainer-OnePRO-111827?style=for-the-badge&logo=github" alt="Primary maintainer of OnePRO" />
   <img src="https://img.shields.io/badge/Focus-Java%20%7C%20Spring%20%7C%20Redis%20%7C%20Infra-b45309?style=for-the-badge" alt="Focus areas" />
 </div>
@@ -37,7 +40,7 @@
 > I don't just build on the Java ecosystem. I ship fixes back into it.
 
 <p align="center">
-  <strong>12 merged PRs</strong> across Redisson, Apache Maven, Apache Kafka, and Netty,
+  <strong>13 merged PRs</strong> across Redisson, Apache Maven, Apache Kafka, Netty, and Lark CLI,
   plus <strong>2 Spring Boot upstream commits</strong> integrated by the Spring Boot project workflow.
 </p>
 
@@ -46,6 +49,11 @@
     <th>Project</th>
     <th>Highlights</th>
     <th>Proof</th>
+  </tr>
+  <tr>
+    <td><strong>Lark CLI</strong></td>
+    <td>Merged PR hardening Markdown round-trip formatting in docs fetch/create/update flows, covering nested-list indentation, emphasis-spacing normalization, and regression tests for false positives.</td>
+    <td><a href="https://github.com/larksuite/cli/pull/469">#469</a></td>
   </tr>
   <tr>
     <td><strong>Spring Boot</strong></td>
