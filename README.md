@@ -34,27 +34,6 @@
   </a>
 </p>
 
-### 🚀 Maintained Project: OnePRO
-<p>
-  <a href="https://github.com/GaoSSR/OnePRO">
-    <img src="https://img.shields.io/github/stars/GaoSSR/OnePRO?style=flat-square&logo=github&label=OnePRO" alt="OnePRO stars" />
-  </a>
-  <a href="https://github.com/GaoSSR/OnePRO/forks">
-    <img src="https://img.shields.io/github/forks/GaoSSR/OnePRO?style=flat-square&logo=github&label=Forks" alt="OnePRO forks" />
-  </a>
-</p>
-
-> OnePRO 专注于电商场景下的复杂优惠叠加问题，通过算法驱动的计算引擎求解优惠排列的最优解。
-
-<h2>📈 GitHub Stats</h2>
-
-<p>
-  <img src="https://img.shields.io/github/followers/GaoSSR?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/GaoSSR?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars"/>
-</p>
-
-<p><img align="center" src="https://streak-stats.demolab.com/?user=GaoSSR&theme=default" alt="GaoSSR" /></p>
-
 ## 🤝 期待与你交流
 
 <p align="center">
