@@ -26,8 +26,6 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.simpleicons.org/langchain" style="display: inline-block;"><img src="https://cdn.simpleicons.org/langchain" alt="langchain" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.simpleicons.org/langgraph" style="display: inline-block;"><img src="https://cdn.simpleicons.org/langgraph" alt="langgraph" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="42" height="42" /></a></p>
 
 <h2>✒️ Recent Posts</h2>
